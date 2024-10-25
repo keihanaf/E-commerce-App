@@ -4,7 +4,7 @@
 
 This project is a modern, feature-rich e-commerce application built with React and Vite. It demonstrates advanced React concepts, state management, routing, and integration with external APIs.
 
-<h3><a href="https://e-commerce-app-red-nine.vercel.app/products">View E-commerce Application</a></h3>
+<h3><a href="https://e-commerce-app-red-nine.vercel.app">View E-commerce Application</a></h3>
 
 ## Features
 
